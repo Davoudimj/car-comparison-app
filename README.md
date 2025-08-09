@@ -48,6 +48,16 @@ This app has been deployed on [Streamlit Cloud](https://streamlit.io/cloud) for 
 
 This project is open-source and free to use under the MIT License.
 
+
+## Feedback and Contributions
+
+Your feedback is highly valued and helps me improve this app. If you have any suggestions, bug reports, or ideas for new features, please feel free to:
+
+- **Open a GitHub Issue**: The best way to report bugs or request features is by opening an issue [here](https://github.com/davoudimj/car-comparison-app/issues).
+- **Contact Me**: Feel free to reach out to me directly at davoudimj@gmail.com.
+
+Thank you for using the app and for your support!
+
 ---
 
 Made with ❤️ by [Davoudimj@gmail.com]
