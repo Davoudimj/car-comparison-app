@@ -13,14 +13,14 @@ Built with [Streamlit](https://streamlit.io), this app allows you to:
 
 ## 🔧 How to Use the App
 
-1. Open the app using the Streamlit Cloud link: *Coming soon*
-2. Use the **sidebar** to choose the number of criteria and alternatives
+1. Open the app using the Streamlit Cloud link: https://car-comparison-app.streamlit.app
+2. Click on + or - to determine the number of criteria and alternatives
 3. Fill in:
    - Criterion names
    - Whether each is a Benefit or Cost
    - Weight for each criterion
 4. Enter data for all alternatives (e.g., cars)
-5. Click **"Run TOPSIS"** to compute scores and rankings
+5. Click **"Run Analysis"** to compute scores and rankings
 6. Optionally download the calculation steps as an Excel file
 
 ## 📦 Requirements
@@ -41,11 +41,8 @@ pip install -r requirements.txt
 
 ## 🚀 Deployment
 
-This app can be deployed on [Streamlit Cloud](https://streamlit.io/cloud) for free.
+This app has been deployed on [Streamlit Cloud](https://streamlit.io/cloud) for free.
 
-1. Upload your files (`my_web_app_v1.4.py`, `requirements.txt`, and this `README.md`) to a GitHub repository.
-2. Connect your GitHub to Streamlit Cloud.
-3. Choose the correct file to run (`my_web_app_v1.4.py`) and deploy.
 
 ## 📄 License
 
